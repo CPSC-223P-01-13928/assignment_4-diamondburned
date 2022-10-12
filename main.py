@@ -2,7 +2,7 @@ from weather import Weather, read_data, write_data, report_daily, report_histori
 from datetime import datetime
 
 main_menu = """\
-      *** TUFFY TITAN WEATHER LOGGER MAIN MENU")
+      *** TUFFY TITAN WEATHER LOGGER MAIN MENU
 
 1. Set data filename
 2. Add weather data
